@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SreeleelaFight", "SreeleelaFight\SreeleelaFight.csproj", "{615FD4D9-6760-4C71-BEC3-DF9C441C36B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathsCalcu", "MathsCalcu\MathsCalcu.csproj", "{BDBCE3BF-9850-4177-BA1C-79E1E940ADF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615FD4D9-6760-4C71-BEC3-DF9C441C36B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615FD4D9-6760-4C71-BEC3-DF9C441C36B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615FD4D9-6760-4C71-BEC3-DF9C441C36B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615FD4D9-6760-4C71-BEC3-DF9C441C36B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBCE3BF-9850-4177-BA1C-79E1E940ADF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBCE3BF-9850-4177-BA1C-79E1E940ADF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBCE3BF-9850-4177-BA1C-79E1E940ADF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBCE3BF-9850-4177-BA1C-79E1E940ADF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C79732-0D3B-4A71-98E4-28F16224ABE5}
+	EndGlobalSection
+EndGlobal

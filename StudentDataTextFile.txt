@@ -1,0 +1,44 @@
+							STUDENT DATA
+Student Names
+
+CLASS 1
+
+1.John
+2.Tomy
+3.Pummy
+4.Ava
+5.Lily
+
+CLASS 2
+
+1.Santhosh
+2.Shirisha
+3.Vanusha
+4.Rani
+5.Varun
+
+CLASS 3
+
+1.Suresh
+2.Anjali
+3.Bindhu
+4.Eshani
+5.Poorni
+
+CLASS 4
+
+1.Ulag
+2.Indhu
+3.Ima
+4.Lochan
+5.Sathya
+
+CLASS 5
+
+1.Chandhu
+2.Shreyas
+3.Veena
+4.Ramesh
+5.Pooja
+
+ 

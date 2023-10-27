@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extracting", "extracting\extracting.csproj", "{33C99B42-C1D7-443E-9440-41198A4AFE29}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8864496F-C625-4FB8-9F2E-AA10118A4814} = {8864496F-C625-4FB8-9F2E-AA10118A4814}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SjcitLibrary", "SjcitLibrary\SjcitLibrary.csproj", "{8864496F-C625-4FB8-9F2E-AA10118A4814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C99B42-C1D7-443E-9440-41198A4AFE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C99B42-C1D7-443E-9440-41198A4AFE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C99B42-C1D7-443E-9440-41198A4AFE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C99B42-C1D7-443E-9440-41198A4AFE29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8864496F-C625-4FB8-9F2E-AA10118A4814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8864496F-C625-4FB8-9F2E-AA10118A4814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8864496F-C625-4FB8-9F2E-AA10118A4814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8864496F-C625-4FB8-9F2E-AA10118A4814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED5E081-20F4-4C0C-90BB-76454FDBB66C}
+	EndGlobalSection
+EndGlobal
