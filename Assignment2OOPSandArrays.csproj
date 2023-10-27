@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C54B133A-8A05-4CBD-9E1C-58098F741D23}</ProjectGuid>
+    <ProjectGuid>{CD12C566-4AE5-4DCE-B8B4-06C924971151}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AssignmentOOPSandArrays</RootNamespace>
-    <AssemblyName>AssignmentOOPSandArrays</AssemblyName>
+    <RootNamespace>Assignment2OOPSandArrays</RootNamespace>
+    <AssemblyName>Assignment2OOPSandArrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>AssignmentOOPSandArrays.PS5ObjectForProducts</StartupObject>
+    <StartupObject>Assignment2OOPSandArrays.PS5ObjectForProducts</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PS3ObjectForProducts.cs" />
-    <Compile Include="PS2Products.cs" />
-    <Compile Include="PS4arrayOfProductsClass.cs" />
     <Compile Include="PS1SumOfArrayOfElements.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PS2Products.cs" />
+    <Compile Include="PS3ObjectForProducts.cs" />
+    <Compile Include="PS4arrayOfProductsClass.cs" />
     <Compile Include="PS5ObjectForProducts.cs" />
     <Compile Include="PS5Products.cs" />
   </ItemGroup>
